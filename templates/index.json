@@ -88,6 +88,9 @@
         "template--19357731782958__058ef02c-031c-4b3f-aa45-f1270b49aaa5-1685547379f53e3152-2",
         "4314fed2-2a8c-4ed1-8e2b-ed57650b5d06"
       ],
+      "custom_css": [
+        "div.collection-card-wrapper{box-shadow: rgb(0 0 0 \/ 10%) 0px 2px 1px, rgba(0, 0, 0, 0.09) 0px 4px 2px, rgba(0, 0, 0, 0.09) 0px 8px 4px, rgba(0, 0, 0, 0.09) 0px 16px 8px, rgba(0, 0, 0, 0.09) 0px 32px 16px;}"
+      ],
       "settings": {
         "title": "<strong>Shop by Category<\/strong>",
         "heading_size": "h1",
