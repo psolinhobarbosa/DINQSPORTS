@@ -74,12 +74,19 @@
           "settings": {
             "collection": "water-bottle"
           }
+        },
+        "4314fed2-2a8c-4ed1-8e2b-ed57650b5d06": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "overgrip"
+          }
         }
       },
       "block_order": [
         "template--19357731782958__058ef02c-031c-4b3f-aa45-f1270b49aaa5-1685547379f53e3152-0",
         "template--19357731782958__058ef02c-031c-4b3f-aa45-f1270b49aaa5-1685547379f53e3152-1",
-        "template--19357731782958__058ef02c-031c-4b3f-aa45-f1270b49aaa5-1685547379f53e3152-2"
+        "template--19357731782958__058ef02c-031c-4b3f-aa45-f1270b49aaa5-1685547379f53e3152-2",
+        "4314fed2-2a8c-4ed1-8e2b-ed57650b5d06"
       ],
       "settings": {
         "title": "<strong>Shop by Category<\/strong>",
@@ -87,7 +94,7 @@
         "image_ratio": "square",
         "columns_desktop": 4,
         "color_scheme": "",
-        "show_view_all": false,
+        "show_view_all": true,
         "columns_mobile": "1",
         "swipe_on_mobile": false,
         "padding_top": 36,
