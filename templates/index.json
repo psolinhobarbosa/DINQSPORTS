@@ -104,6 +104,7 @@
     },
     "rich_text": {
       "type": "rich-text",
+      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -135,8 +136,8 @@
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
-        "heading_size": "h2",
+        "title": "<strong>Shop by category<\/strong>",
+        "heading_size": "h1",
         "description": "",
         "show_description": false,
         "description_style": "body",
