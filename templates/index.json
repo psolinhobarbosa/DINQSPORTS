@@ -89,7 +89,7 @@
         "4314fed2-2a8c-4ed1-8e2b-ed57650b5d06"
       ],
       "custom_css": [
-        "div.collection-card-wrapper {box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px;}"
+        "div.collection-card-wrapper {box-shadow: rgba(0, 0, 0, 0.2) 0px 18px 50px -10px; border-radius: 7% ;}"
       ],
       "settings": {
         "title": "<strong>Shop by Category<\/strong>",
