@@ -961,12 +961,6 @@
         },
         "enable_language_selector": {
           "label": "Włącz selektor języka"
-        },
-        "header__1": {
-          "content": "Kolor"
-        },
-        "menu_color_scheme": {
-          "label": "Kolorystyka menu"
         }
       }
     },
@@ -1625,8 +1619,8 @@
               "info": "Korzystając z metod płatności dostępnych w Twoim sklepie, klienci widzą swoją preferowaną opcję, np. PayPal lub Apple Pay. [Dowiedz się więcej](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
-              "label": "Pokaż formularz danych odbiorcy dla kart prezentowych",
-              "info": "Umożliwia kupującym wysyłanie kart prezentowych w zaplanowanym terminie wraz z osobistą wiadomością. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
+              "label": "Pokaż formularz danych odbiorcy dla produktów typu karta prezentowa",
+              "info": "Produkty w postaci kart prezentowych mogą być wysyłane bezpośrednio do odbiorcy w zaplanowanym terminie wraz z osobistą wiadomością. [Dowiedz się więcej](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
             }
           }
         },
@@ -2578,9 +2572,6 @@
         "image_overlay_opacity": {
           "label": "Nieprzezroczystość nakładki obrazu"
         },
-        "color_scheme": {
-          "info": "Widoczne podczas wyświetlania kontenera."
-        },
         "show_text_below": {
           "label": "Pokaż treść pod obrazem na urządzeniu mobilnym",
           "info": "Aby uzyskać najlepsze wyniki, użyj obrazu o współczynniku proporcji 16:9. [Dowiedz się więcej](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
@@ -2821,9 +2812,6 @@
             },
             "image_overlay_opacity": {
               "label": "Nieprzezroczystość nakładki obrazu"
-            },
-            "color_scheme": {
-              "info": "Widoczne podczas wyświetlania kontenera."
             },
             "text_alignment_mobile": {
               "label": "Wyrównanie treści na urządzeniu mobilnym",

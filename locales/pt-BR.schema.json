@@ -961,12 +961,6 @@
         },
         "enable_language_selector": {
           "label": "Habilitar seletor de idioma"
-        },
-        "header__1": {
-          "content": "Cor"
-        },
-        "menu_color_scheme": {
-          "label": "Esquema de cores do menu"
         }
       }
     },
@@ -1624,8 +1618,8 @@
               "info": "Cada cliente vê a forma de pagamento preferencial dentre as disponíveis na loja, como PayPal ou Apple Pay. [Saiba mais](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
-              "label": "Mostrar formulário de informações do destinatário para cartões-presente",
-              "info": "Permita que os compradores enviem cartões-presente com uma mensagem pessoal em uma data programada. [Saiba mais](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
+              "label": "Mostrar formulário de informações do destinatário para produtos \"cartão-presente\"",
+              "info": "Existe a opção de enviar produtos \"cartão-presente\" direto a um destinatário com uma mensagem pessoal em uma data programada. [Saiba mais](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
             }
           }
         },
@@ -2578,9 +2572,6 @@
         "image_overlay_opacity": {
           "label": "Opacidade de sobreposição de imagem"
         },
-        "color_scheme": {
-          "info": "Visível quando o contêiner é exibido."
-        },
         "show_text_below": {
           "label": "Exibir conteúdo abaixo da imagem em dispositivos móveis",
           "info": "Use uma imagem com proporção 16:9 para ter os melhores resultados. [Saiba mais](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
@@ -2821,9 +2812,6 @@
             },
             "image_overlay_opacity": {
               "label": "Opacidade de sobreposição de imagem"
-            },
-            "color_scheme": {
-              "info": "Visível quando o contêiner é exibido."
             },
             "text_alignment_mobile": {
               "label": "Alinhamento de conteúdo em dispositivos móveis",

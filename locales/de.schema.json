@@ -961,12 +961,6 @@
         },
         "enable_language_selector": {
           "label": "Sprachauswahl aktivieren"
-        },
-        "header__1": {
-          "content": "Farbe"
-        },
-        "menu_color_scheme": {
-          "label": "Menü-Farbschema"
         }
       }
     },
@@ -1624,8 +1618,8 @@
               "info": "Wenn sie die Zahlungsmethoden verwenden, die in deinem Shop verfügbar sind, sehen Kunden ihre bevorzugte Option, z. B. PayPal oder Apple Pay. [Mehr Informationen](https://help.shopify.com/manual/using-themes/change-the-layout/dynamic-checkout)"
             },
             "show_gift_card_recipient": {
-              "label": "Formular für Empfängerinformationen für Geschenkgutscheine anzeigen",
-              "info": "So können Käufer Geschenkgutscheine an einem bestimmten Datum mit einer persönlichen Nachricht versenden. [Mehr Informationen](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
+              "label": "Formular für Empfängerinformationen für Geschenkgutscheinprodukte anzeigen",
+              "info": "Geschenkkartenprodukte können optional mit einer persönlichen Nachricht an einem bestimmten Datum direkt an einen Empfänger gesendet werden.[Mehr erfahren](https://help.shopify.com/manual/online-store/themes/customizing-themes/add-gift-card-recipient-fields)"
             }
           }
         },
@@ -2578,9 +2572,6 @@
         "image_overlay_opacity": {
           "label": "Deckkraft der Bildüberlagerung"
         },
-        "color_scheme": {
-          "info": "Sichtbar, wenn Container angezeigt wird."
-        },
         "show_text_below": {
           "label": "Auf Mobilgeräten Inhalt unterhalb der Bilder anzeigen",
           "info": "Verwende Bilder mit einem Seitenverhältnis von 16:9 für optimale Ergebnisse. [Mehr Informationen](https://help.shopify.com/manual/shopify-admin/productivity-tools/image-editor#understanding-image-aspect-ratio)"
@@ -2821,9 +2812,6 @@
             },
             "image_overlay_opacity": {
               "label": "Deckkraft der Bildüberlagerung"
-            },
-            "color_scheme": {
-              "info": "Sichtbar, wenn Container angezeigt wird."
             },
             "text_alignment_mobile": {
               "label": "Mobile Inhaltsausrichtung",
